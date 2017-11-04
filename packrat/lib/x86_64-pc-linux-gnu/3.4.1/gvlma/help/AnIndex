@@ -1,0 +1,16 @@
+gvlma-package	00gvlma.package
+CarMileageData	CarMileageData
+computegvlma	computegvlma
+deletion.gvlma	deletion.gvlma
+display.delstats	display.delstats
+display.gvlmatests	summary.gvlma
+gvlma	gvlma
+gvlma.form	gvlma
+gvlma.lm	gvlma
+plot.gvlma	plot.gvlma
+plot.gvlmaDel	plot.gvlmaDel
+print.gvlma	summary.gvlma
+print.gvlmaDel	summary.gvlmaDel
+summary.gvlma	summary.gvlma
+summary.gvlmaDel	summary.gvlmaDel
+update.gvlma	update.gvlma

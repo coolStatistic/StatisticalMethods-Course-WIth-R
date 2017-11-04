@@ -1,0 +1,14 @@
+CarMileageData          Car Mileage Data Recorded at Each Gasoline
+                        Fill-Up
+deletion.gvlma          Deletion Statistics for a Linear Model
+display.delstats        Plot Deletion Statistics and Their P-Values for
+                        Assessment of Unusual Observations
+gvlma                   Create a Gvlma Object
+gvlma-package           Global Validation of Linear Model Assumptions
+plot.gvlma              Various Plots for a Gvlma Object
+plot.gvlmaDel           Various Plots for a Gvlmadel Object
+summary.gvlma           Print Basic Information for a Gvlma Object
+summary.gvlmaDel        Basic Information for the Leave-One-Out Global
+                        and Directional Tests for Linear Model
+                        Assumptions
+update.gvlma            Update a Gvlma Object
