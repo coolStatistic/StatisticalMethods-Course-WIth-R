@@ -1,2 +1,4 @@
-# StatisticalMethods-Course-WIth-R
-Statistical Methods
+Statistical Methods With R
+
+使用R语言实现统计预测与决策方法。参考教材为，上海财经大学出版社，徐国祥老师的《统计预测与决策》。案例大都来自本书。
+实现了部分章节的内容，以及部分习题的解答。
