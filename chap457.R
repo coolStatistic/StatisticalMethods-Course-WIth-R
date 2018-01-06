@@ -1,5 +1,9 @@
 # 时间序列的平滑预测法
+# Chap4，Chap5, Chap7(chap6 为自适应过滤法)大都是关于ARMA的，可以参考另外一个repository
+# https://github.com/shenxiangzhuang/TimeSeriesAnalysis
 
+
+# 课后题
 # 移动平均法[E5.1]
 library(TTR)
 data5.1 <- c(46, 50, 59, 57, 55, 64, 55, 61, 45, 49, 46)

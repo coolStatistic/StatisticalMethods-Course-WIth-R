@@ -1,6 +1,10 @@
 library(car)
 library(gvlma)
 
+# 回归的理论及代码实现
+# 参考R in Action: http://rpubs.com/shenxiangzhuang/regression
+
+# 课后题
 # T2
 # fit
 x <- c(700, 800, 900, 1000, 1100, 1200, 1260, 1340)
